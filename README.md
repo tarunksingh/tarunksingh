@@ -6,10 +6,10 @@ Experienced in building scalable TypeScript applications and optimizing develope
 ---
 
 ## 🛠 Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), TypeScript, Node.js
-- **Frontend:** React, Next.js, Redux, Tailwind CSS
+- **Languages:** JavaScript (ES6+), TypeScript, Node.js, Java
+- **Frontend:** Angular,React, Next.js, Redux, Tailwind CSS
 - **Backend/DB:** Express, NestJS, PostgreSQL, MongoDB
-- **DevOps & Tools:** Git, Docker, GitHub Actions, Jest (Testing)
+- **DevOps & Tools:** Git, Docker, GitHub Actions, Jest (Testing), Cypress(e2e Testing)
 
 ## 🤖 Why I'm focused on AI for Software Engineering
 I am passionate about the intersection of LLMs and real-world code. I focus on:
